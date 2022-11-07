@@ -23,11 +23,6 @@ export default{
 </template>
 
 <style scoped>
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 .container{
   width: 80%;
   margin: 0 auto;
